@@ -1,42 +1,18 @@
-# Calculadora básica en Python (repositorio de prueba)
+# Calculadora Básica en Python (Repositorio de Prueba)
 
-Este repositorio contiene una **calculadora básica en Python** y se utiliza como **prueba** con la herramienta **Codex**.
+Este repositorio es un **test** para construir una calculadora básica utilizando **Python**.
 
-## Descripción
+## Objetivo
 
-La aplicación funciona por consola y permite realizar **solo 4 operaciones básicas** entre **dos números**:
+Crear una aplicación sencilla que permita realizar operaciones aritméticas básicas, por ejemplo:
 
-1. Suma
-2. Resta
-3. Multiplicación
-4. División
+- Suma
+- Resta
+- Multiplicación
+- División
 
-## Menú de opciones en consola
+## Estado del proyecto
 
-Al ejecutar el programa se mostrará un menú para seleccionar la operación con un número:
+Actualmente este proyecto se está utilizando como una prueba de trabajo con la herramienta **Codex**.
 
-- `1` para sumar
-- `2` para restar
-- `3` para multiplicar
-- `4` para dividir
-
-Después de elegir la operación, la consola solicita:
-
-- Primer número (**solo se usan dos números**)
-- Segundo número (**solo se usan dos números**)
-
-## Requisitos
-
-- Python 3.8 o superior
-
-## Ejecución
-
-```bash
-python calculadora.py
-```
-
-## Notas
-
-- Si se ingresa una opción distinta de `1`, `2`, `3` o `4`, el programa mostrará un mensaje de opción inválida.
-- Si se intenta dividir entre cero, el programa lo informará y no realizará la operación.
-- Este proyecto es únicamente un test de implementación y documentación con Codex.
+> Nota: Este repositorio existe únicamente con fines de prueba y validación de flujo.
